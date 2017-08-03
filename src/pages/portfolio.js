@@ -5,6 +5,8 @@ import { withStyles, createStyleSheet } from 'material-ui/styles';
 import Project from '../components/project';
 import SectionHeader from '../components/section-header';
 
+const projectManifest = require('../assets/project-manifest.json');
+
 const styles = createStyleSheet(theme => ({
   section: {
     'margin-bottom': '200px',
@@ -24,22 +26,16 @@ class Portfolio extends Component {
       <div id="portfolio" className={classes.section}>
         <SectionHeader title="Portfolio" />
         <div className={classes.content}>
-          <Grid container>
-            <Grid item xs={12} sm={4}>
-              <Project />
-            </Grid>
-            <Grid item xs={12} sm={4}>
-              <Project />
-            </Grid>
-            <Grid item xs={12} sm={4}>
-              <Project />
-            </Grid>
-            <Grid item xs={12} sm={4}>
-              <Project />
-            </Grid>
-            <Grid item xs={12} sm={4}>
-              <Project />
-            </Grid>
+          <Grid container justify="center" align="stretch" gutter={24}>
+            {
+              projectManifest.map((project, index) => {
+                return (
+                  <Grid key={index} item>
+                    <Project project={project} />
+                  </Grid>
+                )
+              })
+            }
           </Grid>
         </div>
       </div>

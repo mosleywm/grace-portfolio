@@ -8,7 +8,7 @@ const styles = createStyleSheet(theme => ({
     width: '50%',
     'max-width': '600px',
     border: 'none',
-    'border-top': '3px solid #4337c6',
+    'border-top': '3px solid #751aff',
     padding: 0
   },
   legend: {

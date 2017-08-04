@@ -47,7 +47,7 @@ class About extends Component {
         <div className={classes.bio}>
           <p>I've been a writer for as long as I can remember - but not always in the classic sense. I wasn't penning novellas at age eight (maybe a terrible poem or two). Instead, writing has always been an intrinsic part of how I problem-solve and communicate - my constant obsession, a running commentary of my personal and professional development. The common thread was, and continues to be, curiosity.</p>
           <p>Regardless of the product I'm selling, the idea I'm pitching or the answer I'm formulating, I've found that curiosity is more than a bonus, but a requirement for versatile writing and quality project management. In each of my jobs, from the more tactically-focused to the creative, I've delivered polished finished products, but I've never done so alone. I ask questions, set meetings, contribute to design, document processes and solicit feedback. All take curiosity.</p>
-          <p>My professional experience, in both technical and creative settings, has given me a reverence for the analytical side of writing and marketing, as well as a reverence for the aesthetics.</p>
+          <p>My professional experience, in both technical and creative settings, has given me a respect for the analytical side of writing and marketing, as well as a reverence for the aesthetics.</p>
         </div>
       </div>
     );

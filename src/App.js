@@ -12,11 +12,11 @@ import './App.css';
 const styles = createStyleSheet(theme => ({
   header: {
     padding: '24px',
-    background: '#4337c6',
-    background: '-webkit-linear-gradient(#4337c6, #f3f3f3)',
-    background: '-o-linear-gradient(#4337c6, #f3f3f3)',
-    background: '-moz-linear-gradient(#4337c6, #f3f3f3)',
-    background: 'linear-gradient(#4337c6, #f3f3f3)',
+    background: '#6600cc',
+    background: '-webkit-linear-gradient(#6600cc, #f3f3f3)',
+    background: '-o-linear-gradient(#6600cc, #f3f3f3)',
+    background: '-moz-linear-gradient(#6600cc, #f3f3f3)',
+    background: 'linear-gradient(#6600cc, #f3f3f3)',
   },
   main: {
     padding: '0 24px'

@@ -6,6 +6,7 @@ import SectionHeader from '../components/section-header';
 const styles = createStyleSheet(theme => ({
   section: {
     'margin-bottom': '200px',
+    'text-align': 'center'
   },
   sectionSmall: {
     'margin-bottom': '40px'
@@ -33,10 +34,10 @@ class Resume extends Component {
         <div className={classes.content}>
           <h3 className={classes.subheader}>Work Experience</h3>
           <div><span className={classes.textBold}>Marketing and Communications Manager</span>, Calico Energy, November 2016-Present</div>
-          <div><span className={classes.textBold}>Copywriter, Williams Helde Marketing Communications</span>, November 2015-November 2016</div>
+          <div><span className={classes.textBold}>Copywriter</span>, Williams Helde Marketing Communications, November 2015-November 2016</div>
           <div><span className={classes.textBold}>Sales Operations and Content Specialist</span>, Array Health, September 2014- November 2015</div>
           <div><span className={classes.textBold}>Project Support Intern</span>, Array Health, June 2014-September 2014</div>
-          <div><span className={classes.textBold}>Bookkeeper</span>, Office Coordinator, Blue Ridge Graphics, August 2013-February 2014</div>
+          <div><span className={classes.textBold}>Bookkeeper, Office Coordinator</span>, Blue Ridge Graphics, August 2013-February 2014</div>
           <div className={classes.sectionSmall}><span className={classes.textBold}>Hostess</span>, Bang! Tapas restaurant, Charlottesville, VA, Summer 2009</div>
           <h3 className={classes.subheader}>Education & Honors</h3>
           <div><span className={classes.textBold}>Bachelor of Arts</span>, Goucher College, May 2013</div>

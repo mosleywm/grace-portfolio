@@ -79,7 +79,7 @@ class Project extends Component {
       <Card className={classes.cardContainer} onClick={this.handleOpenRequest}>
         <div className={classes.thumbnailContainer}>
           <CardMedia>
-            <img className={classes.thumbnail} src={imgBasePath + project.images[0]} alt={"Project Title"} />
+            <img className={classes.thumbnail} src={imgBasePath + project.images[0]} alt={project.project} />
           </CardMedia>
         </div>
         <div className={classes.projectSubheader}>

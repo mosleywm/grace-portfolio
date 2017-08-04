@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import Grid from 'material-ui/Grid';
 import { withStyles, createStyleSheet } from 'material-ui/styles';
+import NavLink from '../components/nav-link';
 
 const styles = createStyleSheet(theme => ({
   gridContainer: {
@@ -12,9 +13,6 @@ const styles = createStyleSheet(theme => ({
     padding: '20px',
     margin: 0,
     'margin-bottom': '10px'
-  },
-  navLink: {
-    transition: 'all 1s ease'
   }
 }));
 
@@ -28,16 +26,16 @@ class Title extends Component {
           <h1 className={classes.bordered}>Grace Pastore</h1>
           <Grid container justify={"space-between"}>
             <Grid item>
-              <a href="#about">About</a>
+              <NavLink title="About" targetId="about" />
             </Grid>
             <Grid item>
-              <a href="#resume">Resum&eacute;</a>
+              <NavLink title="Resum&eacute;" targetId="resume" />
             </Grid>
             <Grid item>
-              <a href="#portfolio">Portfolio</a>
+              <NavLink title="Portfolio" targetId="portfolio" />
             </Grid>
             <Grid item>
-              <a href="#contact">Contact</a>
+              <NavLink title="Contact" targetId="contact" />
             </Grid>
           </Grid>
         </Grid>

@@ -15,14 +15,23 @@ const styles = createStyleSheet(theme => ({
     width: '200px',
     height: '200px',
     overflow: 'hidden',
-    'border-radius': '100px'
+    'border-radius': '100px',
+    margin: 'auto',
+    '@media(min-width: 420px)': {
+      float: 'left',
+      margin: '0 20px 20px 0'
+    }
   },
   section: {
-    'margin-bottom': '200px'
+    'max-width': '800px',
+    margin: '0 auto 200px'
   },
   bio: {
-    'max-width': '600px',
-    'line-height': '1.75rem'
+    'line-height': '1.75rem',
+    'p': {
+      margin: 0,
+      'margin-bottom': '16px'
+    }
   }
 }));
 
@@ -33,16 +42,14 @@ class About extends Component {
     return (
       <div id="about" className={classes.section}>
         <SectionHeader title="About" />
-        <Grid container justify={"center"} align={"center"} direction={"row"}>
-          <Grid item>
-            <div className={classes.portraitContainer}>
-              <img className={classes.portrait} src={headshot} alt={"Grace Pastore"} />
-            </div>
-          </Grid>
-          <Grid item xs={12} sm={8} className={classes.bio}>
-            An empathic creative, writer, marketer and project manager, with an eye for the big picture and an unwavering focus on tactical execution. Passionate learner, obsessive puzzle-solver, undaunted by deadlines.
-          </Grid>
-        </Grid>
+        <div className={classes.portraitContainer}>
+          <img className={classes.portrait} src={headshot} alt={"Grace Pastore"} />
+        </div>
+        <div className={classes.bio}>
+          <p>I've been a writer for as long as I can remember - but not in the classic sense. I wasn't penning novellas at age eight (maybe a terrible poem or two). Instead, writing has always been an intrinsic part of how I problem-solve and communicate - my constant obsession, a running commentary of my personal and professional development. The common thread was, and continues to be, curiosity.</p>
+          <p>Regardless of the product I'm selling, the idea I'm pitching or the answer I'm formulating, I've found that curiosity is more than a bonus, but a requirement for versatile writing and quality project management. In each of my jobs, from the more tactically-focused to the creative, I've delivered polished finished products, but I've never done so alone. I ask questions, set meetings, contribute to design, document processes and solicit feedback. All take curiosity.</p>
+          <p>My professional experience, in both technical and creative settings, has given me a reverence for the analytical side of writing and marketing, as well as a reverence for the aesthetics.</p>
+        </div>
       </div>
     );
   }

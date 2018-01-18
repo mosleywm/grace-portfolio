@@ -45,7 +45,7 @@ class Resume extends Component {
           <div><span className={classes.textBold}>Burchenal Endowed Merit Scholarship for Excellence in History:</span> 2011, 2012, 2013</div>
           <div className={classes.sectionSmall}><span className={classes.textBold}>Goucher College Dean’s List:</span> 2011, 2012, 2013</div>
           <h3 className={classes.subheader}>Skills</h3>
-          <p>Strong writing and editing skills in a variety of genres, from ad copy to email blasts to extensive product collateral. Proficient in Axure RP, Quickbooks, Filemaker, Camtasia, Microsoft Word, Excel, PowerPoint and Outlook. Well-versed in Adobe Photoshop, Illustrator and InDesign. Adept understanding and application of social media tools. Highly adaptable to new tools and systems. Versatile and able to “switch hats” between a variety of audiences/internal stakeholders. Deadline-driven, detail-oriented, former Oxford Comma addict, team player.</p>
+          <p>Strong writing and editing skills in a variety of genres, from ad copy to extensive product collateral and technical documentation. Proficient in Axure RP, Quickbooks, Filemaker, Camtasia, Microsoft Word, Excel, PowerPoint and Outlook. Well-versed in Adobe Photoshop, Illustrator and InDesign. Adept understanding and application of social media tools. Highly adaptable to new tools and systems. Versatile and able to “switch hats” between a variety of audiences/internal stakeholders. Deadline-driven, detail-oriented, former Oxford Comma addict, team player.</p>
         </div>
       </div>
     );

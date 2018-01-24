@@ -63,7 +63,7 @@ class App extends Component {
           <footer className={classes.footer}>
             <Grid className={classes.content} container align={'center'}>
               <Grid item xs={6}>
-                <div>&copy; 2017</div>
+                <div>&copy; 2018</div>
               </Grid>
               <Grid item xs={6}>
                 <div className={classes.iconContainer}>

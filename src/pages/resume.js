@@ -33,7 +33,8 @@ class Resume extends Component {
         <SectionHeader title="Resum&eacute;" />
         <div className={classes.content}>
           <h3 className={classes.subheader}>Work Experience</h3>
-          <div><span className={classes.textBold}>Marketing and Communications Manager</span>, Calico Energy, November 2016-Present</div>
+          <div><span className={classes.textBold}>Copywriter</span>, Limeade, May 2018-Present</div>
+          <div><span className={classes.textBold}>Marketing and Communications Manager</span>, Calico Energy, November 2016-April 2018</div>
           <div><span className={classes.textBold}>Copywriter</span>, Williams Helde Marketing Communications, November 2015-November 2016</div>
           <div><span className={classes.textBold}>Sales Operations and Content Specialist</span>, Array Health, September 2014- November 2015</div>
           <div><span className={classes.textBold}>Project Support Intern</span>, Array Health, June 2014-September 2014</div>

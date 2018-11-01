@@ -1,4 +1,9 @@
 [{
+  "project": "Welcome Experience Email",
+  "company": "Limeade",
+  "note": "Welcome experience email for product users. Copy/content strategy, structure in partnership with UX team.",
+  "images": ["welcome_experience_email.png"]
+}, {
   "project": "Employee Experience Ads",
   "company": "Limeade",
   "note": "Ad copy and strategy.",

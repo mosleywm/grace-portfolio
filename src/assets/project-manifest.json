@@ -1,17 +1,80 @@
 [{
+  "project": "Limeade Difference campaign ads",
+  "company": "Limeade",
+  "note": "Ad copy and strategy.",
+  "images": ["limeade_difference_ads.png"]
+}, {
+  "project": "Limeade Inclusion Guide",
+  "company": "Limeade",
+  "note": "Structure and copy.",
+  "images": [
+    "Limeade_Inclusion_eBook_2018_v7_1.png",
+    "Limeade_Inclusion_eBook_2018_v7_2.png",
+    "Limeade_Inclusion_eBook_2018_v7_3.png",
+    "Limeade_Inclusion_eBook_2018_v7_4.png",
+    "Limeade_Inclusion_eBook_2018_v7_5.png",
+    "Limeade_Inclusion_eBook_2018_v7_6.png",
+    "Limeade_Inclusion_eBook_2018_v7_7.png",
+    "Limeade_Inclusion_eBook_2018_v7_8.png",
+    "Limeade_Inclusion_eBook_2018_v7_9.png"
+  ]
+}, {
+  "project": "Welcome Experience Email",
+  "company": "Limeade",
+  "note": "Welcome experience email for product users. Copy/content strategy, structure in partnership with UX team.",
+  "images": ["welcome_experience_email.png"]
+}, {
+  "project": "Employee Experience Ads",
+  "company": "Limeade",
+  "note": "Ad copy and strategy.",
+  "images": [
+    "WWFAds-Benefits.gif",
+    "WWFAds-Steps.gif",
+    "WWFAds-Turnover.gif",
+    "WWFAds-Benefits.gif",
+    "WWFAds-Steps.gif",
+    "WWFAds-Turnover.gif"
+  ]
+}, {
+  "project": "Burnout Ads",
+  "company": "Limeade",
+  "note": "Ad copy.",
+  "images": [
+    "Ruth.gif",
+    "Ruth.gif"
+  ]
+}, {
+  "project": "Burnout Landing Page",
+  "company": "Limeade",
+  "note": "Landing page copy and content structure.",
+  "images": [
+    "Burnout_landing_page_1.png",
+    "Burnout_landing_page_2.png"
+  ]
+}, {
+  "project": "Employee Experience Maturity Model Landing Page",
+  "company": "Limeade",
+  "note": "Landing page copy and content structure.",
+  "images": [
+    "EEMM_landing_page_1.png",
+    "EEMM_landing_page_2.png"
+  ]
+}, {
   "project": "Calico Energy Website",
   "company": "Calico Energy",
   "note": "Web copy (for the entirety of http://www.calicoenergy.com), site navigation structure, sitemap development, SEO optimization, developer interfacing, and more.",
   "images": [
     "calico_website_1.png",
-    "calico_website_2.png"]
+    "calico_website_2.png"
+  ]
 }, {
   "project": "Smart Thermostat Program Data Sheet",
   "company": "Calico Energy",
   "note": "Copy and design collaboration with external contractor.",
   "images": [
     "calicoprogramsheet_1.png",
-    "calicoprogramsheet_2.png"]
+    "calicoprogramsheet_2.png"
+  ]
 }, {
   "project": "i1Biometrics Web Copy",
   "company": "Williams Helde",
@@ -44,7 +107,8 @@
     "travelblog-digitalbrochure_Page_20.png",
     "travelblog-digitalbrochure_Page_21.png",
     "travelblog-digitalbrochure_Page_22.png",
-    "travelblog-digitalbrochure_Page_23.png"]
+    "travelblog-digitalbrochure_Page_23.png"
+  ]
 }, {
   "project": "Philips EPIQ Ultrasound Sales Guide",
   "company": "Williams Helde",
@@ -52,7 +116,8 @@
   "images": [
     "philips_epiq_sales_aid_Page_1.png",
     "philips_epiq_sales_aid_Page_2.png",
-    "philips_epiq_sales_aid_Page_3.png"]
+    "philips_epiq_sales_aid_Page_3.png"
+  ]
 }, {
   "project": "Conscious Capitalism Seattle Campaign Presentation",
   "company": "Williams Helde",
@@ -68,21 +133,24 @@
     "cc_campiagn_Page_08.png",
     "cc_campiagn_Page_09.png",
     "cc_campiagn_Page_10.png",
-    "cc_campiagn_Page_11.png"]
+    "cc_campiagn_Page_11.png"
+  ]
 }, {
   "project": "Conscious Capitalism Seattle Leave Behind",
   "company": "Williams Helde",
   "note": "Concept, copy and design collaboration.",
   "images": [
     "cc_takeaway_Page_1.png",
-    "cc_takeaway_Page_2.png"]
+    "cc_takeaway_Page_2.png"
+  ]
 }, {
   "project": "Philips Sonicare DiamondClean Connected Campaign Concept Ads",
   "company": "Williams Helde",
   "note": "Campaign Sell Sheet to spark larger campaign theme – copy (headlines/ideas, body copy).",
   "images": [
     "shanghai_printads_mastery_1.png",
-    "shanghai_printads_mastery_2.png"]
+    "shanghai_printads_mastery_2.png"
+  ]
 }, {
   "project": "Philips Sonicare For Kids Coloring Book",
   "company": "Williams Helde",
@@ -94,26 +162,28 @@
     "sfk_coloringbook_storyline_Page_1.png",
     "sfk_coloringbook_storyline_Page_2.png",
     "sfk_coloringbook_storyline_Page_3.png",
-    "sfk_coloringbook_storyline_Page_4.png"]
+    "sfk_coloringbook_storyline_Page_4.png"
+  ]
 }, {
   "project": "Philips Sonicare Superiority Campaign Launch Material",
   "company": "Williams Helde",
   "note": "Concept, copy, collaboration with design.",
-  "images": [
-    "uniquelysonicare.png"]
+  "images": ["uniquelysonicare.png"]
 }, {
   "project": "Philips Sonicare Banner Ads",
   "company": "Williams Helde",
   "images": [
     "philips_sc_banner_Page1.png",
-    "philips_sc_banner_Page2.png"]
+    "philips_sc_banner_Page2.png"
+  ]
 }, {
   "project": "HIT Leaders and News Article",
   "company": "Array Health",
   "note": "Published on HITleadersandnews.com. Concept, research, copy and revisions.",
   "images": [
     "hitleadersandnews-com-taxing-luxury_Page_1.png",
-    "hitleadersandnews-com-taxing-luxury_Page_2.png"]
+    "hitleadersandnews-com-taxing-luxury_Page_2.png"
+  ]
 }, {
   "project": "RFP Blueprint White Paper",
   "company": "Array Health",
@@ -130,5 +200,6 @@
     "rfpblueprintguide_Page_09.png",
     "rfpblueprintguide_Page_10.png",
     "rfpblueprintguide_Page_11.png",
-    "rfpblueprintguide_Page_12.png"]
+    "rfpblueprintguide_Page_12.png"
+  ]
 }]

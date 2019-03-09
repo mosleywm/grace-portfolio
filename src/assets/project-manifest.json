@@ -1,4 +1,24 @@
 [{
+  "project": "Limeade Difference campaign ads",
+  "company": "Limeade",
+  "note": "Ad copy and strategy.",
+  "images": ["limeade_difference_ads.png"]
+}, {
+  "project": "Limeade Inclusion Guide",
+  "company": "Limeade",
+  "note": "Structure and copy.",
+  "images": [
+    "Limeade_Inclusion_eBook_2018_v7_1.png",
+    "Limeade_Inclusion_eBook_2018_v7_2.png",
+    "Limeade_Inclusion_eBook_2018_v7_3.png",
+    "Limeade_Inclusion_eBook_2018_v7_4.png",
+    "Limeade_Inclusion_eBook_2018_v7_5.png",
+    "Limeade_Inclusion_eBook_2018_v7_6.png",
+    "Limeade_Inclusion_eBook_2018_v7_7.png",
+    "Limeade_Inclusion_eBook_2018_v7_8.png",
+    "Limeade_Inclusion_eBook_2018_v7_9.png"
+  ]
+}, {
   "project": "Welcome Experience Email",
   "company": "Limeade",
   "note": "Welcome experience email for product users. Copy/content strategy, structure in partnership with UX team.",

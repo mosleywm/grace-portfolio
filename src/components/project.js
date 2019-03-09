@@ -15,7 +15,7 @@ const styles = createStyleSheet(theme => ({
       opacity: '.5',
       cursor: 'pointer'
     },
-    'max-width': '250px',
+    width: '250px',
     height: '100%'
   },
   thumbnailContainer: {

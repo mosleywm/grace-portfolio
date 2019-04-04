@@ -1,4 +1,24 @@
 [{
+  "project": "Limeade ONE Campaign",
+  "company": "Limeade",
+  "note": "Concept, ad copy and landing page copy.",
+  "images": [
+    "ONE_Ads_Andrew.png",
+    "ONE_Ads_Angie.png",
+    "ONE_Ads-Haley.png",
+    "ONE_Ads-Sam.png",
+    "ONE_best_job_copy.png",
+    "ONE_day_in_the_life_copy.png"
+  ]
+}, {
+  "project": "Limeade Inclusion Campaign",
+  "company": "Limeade",
+  "note": "Ad copy.",
+  "images": [
+    "InclusionAds_StateOfInclusion.png",
+    "InclusionAds_Icons.png"
+  ]
+}, {
   "project": "Limeade Difference campaign ads",
   "company": "Limeade",
   "note": "Ad copy and strategy.",
@@ -8,7 +28,7 @@
   "company": "Limeade",
   "note": "Structure and copy.",
   "images": [
-    "Limeade_Inclusion_eBook_2018_v7_1.png",
+    "Limeade_Inclusion_eBook_2018_v9_1.png",
     "Limeade_Inclusion_eBook_2018_v7_2.png",
     "Limeade_Inclusion_eBook_2018_v7_3.png",
     "Limeade_Inclusion_eBook_2018_v7_4.png",

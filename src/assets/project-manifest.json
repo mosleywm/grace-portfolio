@@ -1,4 +1,11 @@
 [{
+  "project": "Elements of Care Campaign",
+  "company": "Limeade",
+  "note": "Ad concept, ad copy.",
+  "images": [
+    "elements_of_care.png"
+  ]
+}, {
   "project": "Limeade ONE Campaign",
   "company": "Limeade",
   "note": "Concept, ad copy and landing page copy.",

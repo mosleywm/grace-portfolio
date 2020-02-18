@@ -54,7 +54,7 @@ class About extends Component {
             <img className={classes.portrait} src={headshot} alt={"Grace Pastore"} />
           </div>
           <div className={classes.bio}>
-            <p>Writer, editor and marketing professional based in Seattle, WA.</p>
+            <p>Writer, content creator and marketing professional based in Seattle, WA.</p>
           </div>
         </div>
       </div>

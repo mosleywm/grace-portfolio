@@ -1,4 +1,22 @@
 [{
+  "project": "The Future of Benchmarking White Paper",
+  "company": "Calico",
+  "note": "Copy, Review Management, Design",
+  "images": [
+    "Calico_GeoWhitePaper_v7_Page_1.png",
+    "Calico_GeoWhitePaper_v7_Page_2.png",
+    "Calico_GeoWhitePaper_v7_Page_3.png",
+    "Calico_GeoWhitePaper_v7_Page_4.png"
+  ]
+}, {
+  "project": "Calico's Benchmarking Application Overview",
+  "company": "Calico",
+  "note": "Copy, Review Management, Design",
+  "images": [
+    "Calico_BenchmarkingApp_v4_Page_1.png",
+    "Calico_BenchmarkingApp_v4_Page_2.png"
+  ]
+}, {
   "project": "Elements of Care Campaign",
   "company": "Limeade",
   "note": "Ad concept, ad copy.",

@@ -4,7 +4,7 @@ import { withStyles, createStyleSheet } from 'material-ui/styles';
 import Card, { CardMedia } from 'material-ui/Card';
 import Lightbox from 'react-image-lightbox';
 
-const imgBasePath = 'http://www.gracepastore.com/images/';
+const imgBasePath = 'https://www.gracepastore.com/images/';
 
 const styles = createStyleSheet(theme => ({
   thumbnail: {
@@ -91,7 +91,7 @@ class Project extends Component {
             mainSrc={imgBasePath + project.images[photoIndex]}
             nextSrc={nextSrc}
             prevSrc={prevSrc}
-            imageCaption={project.note}
+            imageCaption={<div class='lightbox-notes' dangerouslySetInnerHTML={{__html: project.note}} />}
             onMovePrevRequest={this.handleMovePrevRequest}
             onMoveNextRequest={this.handleMoveNextRequest}
             onCloseRequest={this.handleCloseRequest} />

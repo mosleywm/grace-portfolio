@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { withStyles, createStyleSheet } from 'material-ui/styles';
-import headshot from '../assets/grace_headshot.jpg';
+import headshot from '../assets/grace_headshot.png';
 import SectionHeader from '../components/section-header';
 
 const styles = createStyleSheet(theme => ({
@@ -15,9 +15,9 @@ const styles = createStyleSheet(theme => ({
     }
   },
   portrait: {
-    width: '100%',
+    height: '100%',
     position: 'relative',
-    top: '-25px'
+    left: '-60px'
   },
   portraitContainer: {
     flex: '0 0 auto',

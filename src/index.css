@@ -17,3 +17,14 @@ a:hover {
   text-decoration: none;
   color: #4e4e4e;
 }
+
+.lightbox-notes {
+  a, a:visited {
+    color: #b380ff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+    color: #4e4e4e;
+  }
+}

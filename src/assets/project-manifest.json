@@ -1,4 +1,9 @@
 [{
+  "project": "Limeade blog post",
+  "company": "Limeade",
+  "note": "<a href='https://www.limeade.com/en/blog/internal-communications-in-the-pandemic/' target='_blank'>Blog Post</a> - concept, copy",
+  "images": ["limeade_pandemic_blog_post.png"]
+}, {
   "project": "edenpark.com website copy and messaging",
   "company": "Eden Park Illumination",
   "note": "All <a href='https://edenpark.com' target='_blank'>edenpark.com</a> web copy, including headlines and descriptions (initial wordpress site build as well)",
@@ -7,7 +12,7 @@
   "project": "Limeade Reading List campaign deliverables",
   "company": "Limeade",
   "note": "Freelance work for Limeade, including display ads, LinkedIn ads, landing page and subject lines + email copy template for Limeade Sales",
-  "images": ["Limeade_readinglist.png"]
+  "images": ["Ad_limeade_portfolio.png", "Limeade_readinglist.png"]
 }, {
   "project": "Calico Energy Utility Dive Sponsored Post",
   "company": "Calico",

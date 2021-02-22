@@ -1,4 +1,44 @@
 [{
+  "project": "The Whole Building Benchmarking Initiative",
+  "company": "Calico",
+  "note": "<a href='https://wholebuildingbenchmarking.com/' target='_blank'>wholebuildingbenchmarking.com</a> - Idea, copy, design input and direction",
+  "images": ["wholebuildingbenchmarking.png"]
+}, {
+  "project": "Limeade Blog Post",
+  "company": "Limeade",
+  "note": "<a href='https://www.limeade.com/en/blog/supporting-employee-well-being-through-moments-of-shared-stress/' target='_blank'>Blog Post</a> - Idea, copy",
+  "images": ["limeade_shared_stress_blog.png"]
+}, {
+  "project": "Calico Energy Promoted Story",
+  "company": "Calico",
+  "note": "<a href='https://www.utilitydive.com/spons/utility-engagement-is-the-key-to-using-buildings-as-grid-assets/593597/' target='_blank'>Promoted Story</a> - Idea, copy, interview questions and stakeholder management",
+  "images": ["utility_engagement.png"]
+}, {
+  "project": "Limeade Blog Post",
+  "company": "Limeade",
+  "note": "<a href='https://www.limeade.com/en/blog/internal-communications-in-the-pandemic/' target='_blank'>Blog Post</a> - concept, copy",
+  "images": ["limeade_pandemic_blog_post.png"]
+}, {
+  "project": "Edenpark Website",
+  "company": "Eden Park Illumination",
+  "note": "All <a href='https://edenpark.com' target='_blank'>edenpark.com</a> web copy, including headlines and descriptions (initial wordpress site build as well)",
+  "images": ["EdenPark.png"]
+}, {
+  "project": "Limeade Reading List campaign deliverables",
+  "company": "Limeade",
+  "note": "Freelance work for Limeade, including display ads, LinkedIn ads, landing page and subject lines + email copy template for Limeade Sales",
+  "images": ["Ad_limeade_portfolio.png", "Limeade_readinglist.png"]
+}, {
+  "project": "Calico Energy Utility Dive Sponsored Post",
+  "company": "Calico",
+  "note": "<a href='https://www.utilitydive.com/spons/think-whole-building-benchmarking-is-all-about-compliance-think-again/588831/' target='_blank'>Sponsored Post</a> - Ideation in partnership with CEO, copy for article, banner ad copy, relationship management with Utility Dive.",
+  "images": ["utilitydive.png"]
+}, {
+  "project": "Limeade Blog Post",
+  "company": "Limeade",
+  "note": "<a href='https://www.limeade.com/en/blog/essential-workers/' target='_blank'>Blog Post</a> - idea + copy",
+  "images": ["limeadeblog.png"]
+}, {
   "project": "The Future of Benchmarking White Paper",
   "company": "Calico",
   "note": "Copy, Review Management, Design",
@@ -13,8 +53,8 @@
   "company": "Calico",
   "note": "Copy, Review Management, Design",
   "images": [
-    "Calico_BenchmarkingApp_v4_Page_1.png",
-    "Calico_BenchmarkingApp_v4_Page_2.png"
+    "Calico_BenchmarkingApp_2020_Page_1.jpg",
+    "Calico_BenchmarkingApp_2020_Page_2.jpg"
   ]
 }, {
   "project": "Elements of Care Campaign",
@@ -107,11 +147,8 @@
 }, {
   "project": "Calico Energy Website",
   "company": "Calico Energy",
-  "note": "Web copy (for the entirety of http://www.calicoenergy.com), site navigation structure, sitemap development, SEO optimization, developer interfacing, and more.",
-  "images": [
-    "calico_website_1.png",
-    "calico_website_2.png"
-  ]
+  "note": "Web copy (for the entirety of <a href='https://www.calicoenergy.com' target='_blank'>https://www.calicoenergy.com</a>), site navigation structure, SEO optimization including initial research and ongoing work, full site build with Wordpress builder, and more.",
+  "images": ["calicoenergy_com.png"]
 }, {
   "project": "Smart Thermostat Program Data Sheet",
   "company": "Calico Energy",

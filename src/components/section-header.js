@@ -9,27 +9,40 @@ const styles = createStyleSheet(theme => ({
     'max-width': '600px',
     border: 'none',
     'border-top': '3px solid #751aff',
-    padding: 0
+    padding: 0,
   },
   legend: {
-    margin: 'auto'
+    margin: 'auto',
+  },
+  sectionTitle: {
+    'display': 'inline-block',
+    padding: '10px 20px',
+    margin: '0px',
+  },
+  headerNotes: {
+    'font-size': '11px',
+    'text-align': 'center',
+    margin: '0px',
   },
   sectionHeader: {
-    'display': 'inline-block',
-    padding: '10px 20px'
+    'margin-bottom': '20px',
   }
 }));
 
 class SectionHeader extends Component {
   render() {
-    const {classes, title} = this.props;
+    const {classes, title, notes} = this.props;
+    const {fieldset, legend, sectionHeader, sectionTitle, headerNotes} = classes;
 
     return (
-      <fieldset className={classes.fieldset}>
-        <legend className={classes.legend}>
-          <h2 className={classes.sectionHeader}>{title}</h2>
-        </legend>
-      </fieldset>
+      <div className={sectionHeader}>
+        <fieldset className={fieldset}>
+          <legend className={legend}>
+              <h2 className={sectionTitle}>{title}</h2>
+          </legend>
+        </fieldset>
+        {notes && <p className={headerNotes}>{notes}</p>}
+      </div>
     );
   }
 }

@@ -24,7 +24,7 @@ class Portfolio extends Component {
 
     return (
       <div id="portfolio" className={classes.section}>
-        <SectionHeader title="Portfolio" />
+        <SectionHeader title="Portfolio" notes="Some project notes contain links" />
         <div className={classes.content}>
           <Grid container justify="center" align="stretch" gutter={24}>
             {

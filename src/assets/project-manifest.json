@@ -1,10 +1,25 @@
 [{
-  "project": "Limeade blog post",
+  "project": "The Whole Building Benchmarking Initiative",
+  "company": "Calico",
+  "note": "<a href='https://wholebuildingbenchmarking.com/' target='_blank'>wholebuildingbenchmarking.com</a> - Idea, copy, design input and direction",
+  "images": ["wholebuildingbenchmarking.png"]
+}, {
+  "project": "Limeade Blog Post",
+  "company": "Limeade",
+  "note": "<a href='https://www.limeade.com/en/blog/supporting-employee-well-being-through-moments-of-shared-stress/' target='_blank'>Blog Post</a> - Idea, copy",
+  "images": ["limeade_shared_stress_blog.png"]
+}, {
+  "project": "Calico Energy Promoted Story",
+  "company": "Calico",
+  "note": "<a href='https://www.utilitydive.com/spons/utility-engagement-is-the-key-to-using-buildings-as-grid-assets/593597/' target='_blank'>Promoted Story</a> - Idea, copy, interview questions and stakeholder management",
+  "images": ["utility_engagement.png"]
+}, {
+  "project": "Limeade Blog Post",
   "company": "Limeade",
   "note": "<a href='https://www.limeade.com/en/blog/internal-communications-in-the-pandemic/' target='_blank'>Blog Post</a> - concept, copy",
   "images": ["limeade_pandemic_blog_post.png"]
 }, {
-  "project": "edenpark.com website copy and messaging",
+  "project": "Edenpark Website",
   "company": "Eden Park Illumination",
   "note": "All <a href='https://edenpark.com' target='_blank'>edenpark.com</a> web copy, including headlines and descriptions (initial wordpress site build as well)",
   "images": ["EdenPark.png"]
@@ -19,7 +34,7 @@
   "note": "<a href='https://www.utilitydive.com/spons/think-whole-building-benchmarking-is-all-about-compliance-think-again/588831/' target='_blank'>Sponsored Post</a> - Ideation in partnership with CEO, copy for article, banner ad copy, relationship management with Utility Dive.",
   "images": ["utilitydive.png"]
 }, {
-  "project": "Limeade blog post",
+  "project": "Limeade Blog Post",
   "company": "Limeade",
   "note": "<a href='https://www.limeade.com/en/blog/essential-workers/' target='_blank'>Blog Post</a> - idea + copy",
   "images": ["limeadeblog.png"]

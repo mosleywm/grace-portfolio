@@ -1,4 +1,9 @@
 [{
+  "project": "Fast Company Byline (shadow-written)",
+  "company": "Limeade",
+  "note": "<a href='https://www.fastcompany.com/90599994/the-business-case-for-supporting-female-managers' target='_blank'>fastcompany byline</a> - Content focus, insights and article copy generated based on client-provided research (new data). Reference can provide confirmation of authorship upon request.",
+  "images": ["business_case_for_supporting_female_managers.png"]
+}, {
   "project": "The Whole Building Benchmarking Initiative",
   "company": "Calico",
   "note": "<a href='https://wholebuildingbenchmarking.com/' target='_blank'>wholebuildingbenchmarking.com</a> - Idea, copy, design input and direction",

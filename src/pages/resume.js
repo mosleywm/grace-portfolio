@@ -33,21 +33,24 @@ class Resume extends Component {
         <SectionHeader title="Resum&eacute;" />
         <div className={classes.content}>
           <h3 className={classes.subheader}>Work Experience</h3>
-          <div><span className={classes.textBold}>Marketing Manager</span>, Calico Energy, September 2019-Present</div>
+          <div><span className={classes.textBold}>Senior Copywriter</span>, Wunderman Thompson, May 2021-Present</div>
+          <div><span className={classes.textBold}>Marketing Manager</span>, Calico Energy, September 2019-April 2021</div>
           <div><span className={classes.textBold}>Copywriter</span>, Limeade, May 2018-September 2019</div>
           <div><span className={classes.textBold}>Marketing and Communications Manager</span>, Calico Energy, November 2016-April 2018</div>
           <div><span className={classes.textBold}>Copywriter</span>, Williams Helde Marketing Communications, November 2015-November 2016</div>
           <div><span className={classes.textBold}>Sales Operations and Content Specialist</span>, Array Health, September 2014- November 2015</div>
           <div><span className={classes.textBold}>Project Support Intern</span>, Array Health, June 2014-September 2014</div>
           <div><span className={classes.textBold}>Bookkeeper, Office Coordinator</span>, Blue Ridge Graphics, August 2013-February 2014</div>
-          <div className={classes.sectionSmall}><span className={classes.textBold}>Hostess</span>, Bang! Tapas restaurant, Charlottesville, VA, Summer 2009</div>
           <h3 className={classes.subheader}>Education & Honors</h3>
           <div><span className={classes.textBold}>Bachelor of Arts</span>, Goucher College, May 2013</div>
           <div>History and American Studies double major. Cum Laude, with honors in History.</div>
           <div><span className={classes.textBold}>Burchenal Endowed Merit Scholarship for Excellence in History:</span> 2011, 2012, 2013</div>
           <div className={classes.sectionSmall}><span className={classes.textBold}>Goucher College Dean’s List:</span> 2011, 2012, 2013</div>
           <h3 className={classes.subheader}>Skills</h3>
-          <p>Strong writing and editing skills in a variety of genres, from ad copy to extensive product collateral and technical documentation. Proficient in Axure RP, Quickbooks, Filemaker, Camtasia, Microsoft Word, Excel, PowerPoint and Outlook. Well-versed in Adobe Photoshop, Illustrator and InDesign. Adept understanding and application of social media tools. Highly adaptable to new tools and systems. Versatile and able to “switch hats” between a variety of audiences/internal stakeholders. Deadline-driven, detail-oriented, former Oxford Comma addict, team player.</p>
+          <div><span className={classes.textBold}>Short form copy</span> - video scripts, ad copy, social media posts, web copy</div>
+          <div><span className={classes.textBold}>Long form copy</span> - eBooks, whitepapers, case studies, blog posts, articles, email sequences</div>
+          <div><span className={classes.textBold}>Content strategy</span> - sales decks, outreach, campaign development, content and concept ideation, product and UX copy</div>
+          <div><span className={classes.textBold}>Project management</span> - including RFP response management, end-to-end content development, marketing operations,  writing team mentorship</div>
         </div>
       </div>
     );
